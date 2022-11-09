@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5533891483025509921
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 291767504333014662, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -6156567986236837295, guid: 7f0a2c43779325c40b773ea8512ad452, type: 3}
+    - target: {fileID: 291767504333014662, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 291767504333014662, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 291767504333014662, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5455471734039947111, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_Name
+      value: Door Right
+      objectReference: {fileID: 0}
+    - target: {fileID: 5455471734039947111, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_TagString
+      value: Door
+      objectReference: {fileID: 0}
+    - target: {fileID: 6109167273099550383, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6109167273099550383, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6109167273099550383, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6109167273099550383, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6109167273099550383, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6109167273099550383, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6109167273099550383, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6109167273099550383, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6109167273099550383, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6109167273099550383, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6109167273099550383, guid: 883869350f133a843a73116c16a2920a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 883869350f133a843a73116c16a2920a, type: 3}
+--- !u!1 &538723694905207110 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5455471734039947111, guid: 883869350f133a843a73116c16a2920a, type: 3}
+  m_PrefabInstance: {fileID: 5533891483025509921}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1779570655
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 538723694905207110}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}

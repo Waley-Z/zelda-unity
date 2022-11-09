@@ -1,0 +1,37 @@
+a. "What is the pitch for your custom level? (2-3 sentences)"
+
+Night falls in the dungeon, you have to fight against enemies with limited sight. Fire will light your way, but be aware of the enemies hidden in the darkness. 
+
+
+b. "What is the pitch for your custom mechanic? (2-3 sentences)"
+
+Player's sight is short and blocked by walls. Player can shoot fire bows to hit enemies and have a better vision. Enemies will spawn in the darkness behind the player.
+
+
+c. "How does your new mechanic / custom level change the way the game is played? (Think back to Mario 3D World, and how a switch-mechanic made a level have dangerous jumps, 
+or how a timer made another level very hectic.")
+
+Our custom level is designed to be hard so that the player has to make careful decisions and be cautious about the surroudings. The player cannot see what is behind and enemies would attack the player. We have differnent kinds of traps; some are ligts and some are rupees or keys. When the player heads towards them, enemies will spawn behind them. In those cases, having a fire bow to set a fire behind is a good choice.
+
+
+d. "What new interesting decisions does your new mechanic / custom level bring about?"
+
+The short and blocked sight and the mechanic that enemy will spawn behind the player make the overall game dangerous and thrilling, because you don't know what is going to happen next. Therefore, each step the player takes reflects their decision to be cautious of the environment that is full of unknowns. 
+
+
+e. "How do you explain the new mechanic to the player (or make its utility obvious) while they are playing without using a bunch of clumsy text?
+(Assume that players will ignore any text that is more than a few words long)"
+
+When players enter the first level, they will first notice the "light" emmiting from the player, and after they move around, they will discover that it actually represent the sight.
+Then, they will be attracted by the fire on the wall and on the floor, and then realize that these fires are pointing to the key and the door and guide them to the next level.
+Also, there are some rupees in the first level, allowing them to try out the new weapon, fire bow, and thus further understand the light mechanic.
+It is worth noting that in the first level, there are no enemies, so players could explore the lighting mechanic however they wish.
+In the second level, players will encounter enemies after they turn around, but these enemies are easy to deal with and therefore won't cause too much trouble for players.
+But this will notify players that enemies will appear suddenly around them if they step on certain blocks, so that they will be prepared for more dangerous enemies in the following levels.
+
+
+f. What are the URLs to your online portfolios (where a web build OR win/mac download exists)?
+Please provide one portfolio link for each partner on your team.
+
+https://jerrycmy2001.github.io/
+https://waley-z.github.io/

@@ -1,0 +1,3717 @@
+fileFormatVersion: 2
+guid: 91f335f9c9f5a8c43b300a3d49609716
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zelda_enemies_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b64fd4a73b07a4ab7bc8bc1e9f6fc6
+      internalID: 232440946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7932a2d38cb1d44fa2aca0835a22cf0
+      internalID: 1143971321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea09522fa3415904d8f9d96c76d57be4
+      internalID: 104404314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dde473eea6acf54aab414d4c74c4ec9
+      internalID: 502587385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52106e1b618544fbab10fb2facc33f
+      internalID: 1011316015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c3cc21749186478078180f83feb81
+      internalID: -1338121566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a83d93593bb45d41a14038e96d6c65e
+      internalID: -315067284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c15d5b291ebef4e834f111b88d3deb
+      internalID: 1220651405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f35620627db4e24aa729df51b6c0965
+      internalID: -1585079428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f25bc48e13bcb4faaf843615428064
+      internalID: -1386351690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775b2e757fb14c248b8e21a00b09eccf
+      internalID: 16901332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1c98073fdf944dae455e1e80488d4
+      internalID: 1376621945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8c524a64482fc408307f1800a913b4
+      internalID: 1444200761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f61a57c8ab41b4baa2f7361dddf9f4
+      internalID: 1863491896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeb3cab5fa1a894a8216d010623ee57
+      internalID: -1942968685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684766b5876edab439b35db64b035d25
+      internalID: -499602179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4e8155312f7614182fd525631579fa
+      internalID: 1179407450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_42
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62325f1fe51fd4d87414a86f808877
+      internalID: -1323396557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50125aa55a492274baa01629d6c18a8c
+      internalID: 1373026654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b4687296551e84f84f489a9226eba2
+      internalID: 859876060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_45
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebef2f47abd44149ab29b8c9bf857ec
+      internalID: 461567318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32900927480c12e4baf63eda9afbe2c4
+      internalID: -995018251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_47
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 201
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3846acb4af3b7b74092bb7f8ca50a1c2
+      internalID: 113777209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_48
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea7cf9d8511cce4fad9ea02461716f5
+      internalID: -477348363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de65b20fc32c714ca9e3cb8863be056
+      internalID: -71627830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_50
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d8efa309d2ae44b8d65ec22251d3b
+      internalID: -1711726324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_51
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2503806a1b2d3488bf07f50dc2ae7d
+      internalID: -1580022238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_52
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312cafc4493b2564389171bcb45fa229
+      internalID: -332316417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_53
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1791f8afd6e90d042ae735f163d24d17
+      internalID: -1824745156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217b7f20c833b7a43a97cdd62fb75452
+      internalID: 1433994075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6718e816b72ca24690bc0a927b3319e
+      internalID: -1280951917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed2ae6b774b9ed46801576be233a25c
+      internalID: 899994504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_57
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330becf7fd55a784e8c4f2462e8c7fa3
+      internalID: -1232007796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_58
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9db0986219c3cd45b77c09b36214384
+      internalID: 1504176414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_59
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551c29c7423999c4c966de95045a337c
+      internalID: 167606345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_60
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ad4b265d013384fa0d70ff26b67ac5
+      internalID: 846453062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43fcf84719c88941898311e22d3d490
+      internalID: 677335902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_62
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe1709f0737fdd4a8edb99d0b787dbe
+      internalID: 1794924343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882b6c15cefab5b4fb45ba963ff7b1ca
+      internalID: 1841410940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc7a19aba97448458d32171d3e37d49
+      internalID: 1237680534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb6c303cc29ad645bedbaac3bd31570
+      internalID: 107968373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906e4261b58a7664ebd9a18d7022d292
+      internalID: -2026159025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b422fc75fbc9e49809df9887d88620
+      internalID: 1845838672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_68
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d06f7d6074746e4bb63540abd19e9f8
+      internalID: 392206034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_69
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49441ea4e82abf545adf6ac0980bd869
+      internalID: 1205691378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_70
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40610268255a64142829236450aa65ca
+      internalID: 102352313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb37f4dfd39b2c54c99d9d8c51312260
+      internalID: -979800072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604d37a8a37c7ae4c812773e91cfe404
+      internalID: -1258530479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_73
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c103aee221b52814281f93fd152344b8
+      internalID: -497870395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_93
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 172
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8acc4c9dd4341a438b7e8b444100ac1
+      internalID: 1653039032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae9098425c341045b868f68c64b3635
+      internalID: -1881274827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_109
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b904bc0f39f37243b372ff7d65072b0
+      internalID: 1393693120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_110
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1bf9b250746cc418d4c422789789a7
+      internalID: -1567682345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076aa20ffbd197c4ebe811a50208cf22
+      internalID: 1557690233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1de56ae87c37a1429a8af99184b6fec
+      internalID: 220087409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_113
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9d04908f47a5f40b6aeda6614d573f
+      internalID: 615343716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_114
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80947cb9267b81344b6144b9a5dba04f
+      internalID: -159707164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_115
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d951a3c21845b1f49964107c38676f45
+      internalID: -1992808178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_116
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba80bd9ee069b140a0043f970e5f940
+      internalID: -651493981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_117
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e149e84846ebd499f97fa069eea79e
+      internalID: -661546995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_118
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4485a0aca169f42ada316ad42421d1
+      internalID: -1557713921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_119
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b664935887656dc4e86b0daa8f23512e
+      internalID: -1191597543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_120
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41342fa2584f4843ad6431b931165b4
+      internalID: -681263320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_121
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f617f2e716653524e88c79a24e8d641f
+      internalID: 12467488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_122
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038414d3ecc251940b92213dce802c23
+      internalID: 1307913202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_123
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d3778851af4547a5cddf90a80e401
+      internalID: 1088613888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_124
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6365cfca74b3bd43af34f7dbcd64396
+      internalID: 648576677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_125
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1f68b1c80417d4a94b8d381e0ffb16
+      internalID: -842616929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_126
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aa8b890e851d8458fd5116c364da97
+      internalID: -1761420107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_127
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a26a9ba3bf34fd4289d913cf5e1100b
+      internalID: 1849379872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_160
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea92901929b6e6148b35a22b3f237f8a
+      internalID: -190408785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_161
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973dfe38a70db78419081cdd1cfb4bb8
+      internalID: 792388251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_162
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960c0e9f1ea754840b0466a5bef2105d
+      internalID: -483563281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_163
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee86e8e1f1e5ba047af8cb8ce281de95
+      internalID: -1171324412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_164
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cdfadd5cb462d4d81b761cff8c2c58
+      internalID: -2085282413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_165
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83741f4d72e00cf47bfc1fb168e763da
+      internalID: 523358834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_166
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dd07cdee21bfe4996e75d563961b39
+      internalID: 1560208229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_167
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887f7f12976e2f84998d1b2211154e13
+      internalID: 1723241829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_168
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710de82c789fc445a1dc6c30cc638e8
+      internalID: -778215279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_169
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac450a24448a818419a5fba5b10a72dd
+      internalID: -1118242360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_170
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee652a2933c34e46b31de4c27059c0a
+      internalID: -740132113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_171
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a174bc516ea13844a9396ebd9e16a57
+      internalID: 1362774600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_172
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5123edfb832826f499887d95da306367
+      internalID: -985029455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_173
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35750102181a69429c174feaeafe679
+      internalID: -1136598444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_174
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a001ea0620608154aa985d60229b17e8
+      internalID: -1492213248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_175
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c20f55f3dd18746a55465602d4c34a
+      internalID: 53301911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_176
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16336448dd7de24884a19017d4eecaf
+      internalID: 563895841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_177
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a749c1a5bb902624a813e928626261e5
+      internalID: 432591445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_178
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f643b309688daf24cba8d57af6200bab
+      internalID: -1199465642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_179
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa4dc2ba145be4bb49f5985149cc65
+      internalID: -503517406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_180
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f8fddec08aa9b47ace2e8ae37e7e9e
+      internalID: 59459656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_181
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fc7e0c55c34954b8e5033d10f16bbc
+      internalID: 1196546593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_182
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdedc2708d97f354da6db7a725c69f30
+      internalID: 84754028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_183
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2d0568549a6d24bb05a24570a97026
+      internalID: -1899465538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_184
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615e2f1a1516a2b4397f75ed72a11919
+      internalID: -1957141001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_185
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30735fe9e884fb40bc3bdc792142a71
+      internalID: 610890131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_186
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2bfaafa46139b45809a4560ff911ee
+      internalID: 1175859837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_187
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58794f33e98c46a4ab7c2eb78a015179
+      internalID: -1566609539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_188
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1971417ea6551438a150887a8c4a52
+      internalID: -1274169314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_189
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86e6b8900e9087479f84c8b9fab00e0
+      internalID: 1023419325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_190
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56339f413d94f046b508086254c0544
+      internalID: 1300305489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_191
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbbd32c325948d4bb9784fdb3cb8d61
+      internalID: 1854450161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_192
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7037022b0e839634abb6d929d992cb94
+      internalID: -685086436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_193
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5036ffd8f4fd88f4ca281d66ed6c5f5f
+      internalID: 1400433420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_194
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934adf179b6cb3e4c9d836c36d66162c
+      internalID: -522951642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_195
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920f206975db3064ba1d4db4f41023f2
+      internalID: 12094322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_196
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb26837fee4e196419c2dc938bffb872
+      internalID: -1573378851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_197
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb83a0faeabb41409cba388df49b9ff
+      internalID: -358538040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_242
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a666c95682d847aff4cf36324b7e6
+      internalID: -1953798596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_243
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374c8aa3593194b4b88da9d6570ae286
+      internalID: -255156504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_244
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf45c4d29b14bc24a8ef92861b0cb83c
+      internalID: -312713531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_245
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d022eeaa5c9d1154aa466a9608db69d8
+      internalID: 1957457118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_246
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ce43408092ed48b7b465d58a679ed
+      internalID: -169278066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_247
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded6be054ddc4304e80874c5883bbf34
+      internalID: 1811340099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_248
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce718b7cd0aa6478a16ed936683435
+      internalID: 774860518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_251
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bbf4dfcf36e804a937fa90fac28bf4
+      internalID: 93610264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_252
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aac9df6e3bd5e429f6d864b441e584
+      internalID: -1236041599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_253
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31ba1156405a684e8044b82449919b7
+      internalID: 900864722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_256
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd0d066cd2275409192f3f2ee31379
+      internalID: -1386535438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_257
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bc5b4233c2c554f81df05f649d36af
+      internalID: -1368822771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_258
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16830a2e62aa70a429361c4a45c91f8e
+      internalID: 97450477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_259
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eec998d8b756549a4109c2b79bbc26
+      internalID: 1184698319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_260
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b55e398695da24a89957cf71c0158a
+      internalID: -112977866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_261
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96013df7369df734088acf3e27e768f1
+      internalID: 1530752468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_262
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56831063722287a4cae5c10fbd1ca51a
+      internalID: -2095960287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_264
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad0b4b386def542a31303d3ce20314
+      internalID: -536865558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_265
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b9d1c83c99d8541ab6b75cba97043c
+      internalID: -1632105535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_266
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2099e26e96bd6354eadf9f58005ecd64
+      internalID: 1977819941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_267
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a23c45c4def1b4e939db89f5432c2f
+      internalID: -2026931297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_269
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbae3cd309e95b34b8128afa648f8a8a
+      internalID: -2132775555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_271
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69826a99c76391c4caa1a151e0986d4b
+      internalID: 1996341456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_274
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c40901b73866f346ac85e336909879f
+      internalID: 1452799861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_275
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7817d937831f6f4ca2405856d73d126
+      internalID: -1751148876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_276
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0718b081475aad44a7a86848d60d2f3
+      internalID: -689642204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_278
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5271291821caf1b4a9bf4c69fd715c4c
+      internalID: -1958347466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_280
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb10d40dcf0fef428f43ef9f0da3a11
+      internalID: 2141765520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_282
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e9e581623f69648b1cf69121b98dd7
+      internalID: -209522891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_283
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610e4d4e81fe7e74f825ce6635178a80
+      internalID: 604314142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_284
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196d8ba047cf8847aef963aefdc6e6d
+      internalID: 68322199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_285
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253ba879a1e8ab84193873cf3c18072d
+      internalID: -1487476690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_291
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f465bc1c06369544926786592619a46
+      internalID: -449775190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_292
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ec315346c88d94aa154c920fddfb44
+      internalID: -880351637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_293
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1980f44551d9d498da895ff1f81db6
+      internalID: 837174318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_294
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cec408429f5964087a1a557151a054
+      internalID: -1460554575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_295
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee71cd3e0143b60449d4e5c4ac3946dd
+      internalID: 1883336152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_296
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad6e2f1bde79ab469eb2b280441fe6f
+      internalID: 383203592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_297
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa6de4699f6884a813967590c32e6f
+      internalID: -236097996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_298
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd947c7826e26f4ebd4738340856935
+      internalID: 628501706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_299
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d634693ea43c554a9455d08bc8f7297
+      internalID: 1166542616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_300
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81daf991b8b899c44a30362a69ce564e
+      internalID: 403336321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_301
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8207d739d83765041961ea516c55e671
+      internalID: 231639638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_302
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b71a6690816054ca19f4e5143c8c52
+      internalID: -2121700317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_303
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3a586f56a89cc4e98c42496e449917
+      internalID: 1349264507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_304
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0b837c8c463f8449a06fd8a82c3549
+      internalID: -440090630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_305
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccba1d7c68092f5429b6d3b78d8f89ef
+      internalID: -1442938792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelda_enemies_306
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c5ddd9aec55a24c811ce539ef28663
+      internalID: -804893186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zelda_enemies_207: -1904573093
+      zelda_enemies_77: 2010556775
+      zelda_enemies_50: -1711726324
+      zelda_enemies_176: 563895841
+      zelda_enemies_36: 1376621945
+      zelda_enemies_200: 1484499449
+      zelda_enemies_109: 1393693120
+      zelda_enemies_117: -661546995
+      zelda_enemies_220: -1733099583
+      zelda_enemies_82: 601668482
+      zelda_enemies_101: 1406265693
+      zelda_enemies_177: 432591445
+      zelda_enemies_51: -1580022238
+      zelda_enemies_71: -979800072
+      zelda_enemies_162: -483563281
+      zelda_enemies_226: 1772927345
+      zelda_enemies_4: 1520013717
+      zelda_enemies_279: -1622414888
+      zelda_enemies_68: 392206034
+      zelda_enemies_285: -1487476690
+      zelda_enemies_49: -71627830
+      zelda_enemies_88: 1906938083
+      zelda_enemies_180: 59459656
+      zelda_enemies_85: -2138454889
+      zelda_enemies_66: -2026159025
+      zelda_enemies_24: -271176067
+      zelda_enemies_165: 523358834
+      zelda_enemies_196: -1573378851
+      zelda_enemies_294: -1460554575
+      zelda_enemies_288: 872141272
+      zelda_enemies_148: 1957900881
+      zelda_enemies_268: 1631781595
+      zelda_enemies_260: -112977866
+      zelda_enemies_192: -685086436
+      zelda_enemies_258: 97450477
+      zelda_enemies_91: 1869038031
+      zelda_enemies_283: 604314142
+      zelda_enemies_243: -255156504
+      zelda_enemies_7: 1265046901
+      zelda_enemies_191: 1854450161
+      zelda_enemies_160: -190408785
+      zelda_enemies_152: 510070577
+      zelda_enemies_5: 85594764
+      zelda_enemies_102: -1356773320
+      zelda_enemies_276: -689642204
+      zelda_enemies_56: 899994504
+      zelda_enemies_290: 70292672
+      zelda_enemies_303: 1349264507
+      zelda_enemies_108: -1881274827
+      zelda_enemies_61: 677335902
+      zelda_enemies_63: 1841410940
+      zelda_enemies_80: 1840807917
+      zelda_enemies_170: -740132113
+      zelda_enemies_296: 383203592
+      zelda_enemies_225: -1303066106
+      zelda_enemies_171: 1362774600
+      zelda_enemies_281: 1091924286
+      zelda_enemies_234: -1789199464
+      zelda_enemies_131: 1535953317
+      zelda_enemies_195: 12094322
+      zelda_enemies_210: -1320812052
+      zelda_enemies_204: -1097375492
+      zelda_enemies_42: -1323396557
+      zelda_enemies_107: -1477068555
+      zelda_enemies_215: 193706494
+      zelda_enemies_255: 1381321273
+      zelda_enemies_221: 703178818
+      zelda_enemies_273: 1534543738
+      zelda_enemies_302: -2121700317
+      zelda_enemies_284: 68322199
+      zelda_enemies_230: 1870020184
+      zelda_enemies_104: -1803291314
+      zelda_enemies_59: 167606345
+      zelda_enemies_259: 1184698319
+      zelda_enemies_203: 1325218313
+      zelda_enemies_73: -497870395
+      zelda_enemies_154: -2044499510
+      zelda_enemies_289: -1476926747
+      zelda_enemies_237: -1042144505
+      zelda_enemies_113: 615343716
+      zelda_enemies_257: -1368822771
+      zelda_enemies_65: 107968373
+      zelda_enemies_17: -1181418898
+      zelda_enemies_52: -332316417
+      zelda_enemies_244: -312713531
+      zelda_enemies_197: -358538040
+      zelda_enemies_19: 314851519
+      zelda_enemies_158: -1282552500
+      zelda_enemies_173: -1136598444
+      zelda_enemies_38: 1863491896
+      zelda_enemies_232: 1726596355
+      zelda_enemies_164: -2085282413
+      zelda_enemies_301: 231639638
+      zelda_enemies_250: 654033012
+      zelda_enemies_159: 641601241
+      zelda_enemies_28: 502587385
+      zelda_enemies_57: -1232007796
+      zelda_enemies_95: 646616766
+      zelda_enemies_112: 220087409
+      zelda_enemies_129: -1744986441
+      zelda_enemies_146: 641632088
+      zelda_enemies_248: 774860518
+      zelda_enemies_143: 285709258
+      zelda_enemies_70: 102352313
+      zelda_enemies_39: -1942968685
+      zelda_enemies_67: 1845838672
+      zelda_enemies_40: -499602179
+      zelda_enemies_264: -536865558
+      zelda_enemies_11: 2131480667
+      zelda_enemies_48: -477348363
+      zelda_enemies_103: -1985503556
+      zelda_enemies_174: -1492213248
+      zelda_enemies_60: 846453062
+      zelda_enemies_123: 1088613888
+      zelda_enemies_125: -842616929
+      zelda_enemies_199: 1180204790
+      zelda_enemies_223: -1490325654
+      zelda_enemies_269: -2132775555
+      zelda_enemies_135: -906965729
+      zelda_enemies_270: -2096980887
+      zelda_enemies_64: 1237680534
+      zelda_enemies_97: 1975460069
+      zelda_enemies_106: -229699172
+      zelda_enemies_132: 1859241100
+      zelda_enemies_193: 1400433420
+      zelda_enemies_198: 996098117
+      zelda_enemies_253: 900864722
+      zelda_enemies_267: -2026931297
+      zelda_enemies_214: 505104222
+      zelda_enemies_16: -1232373349
+      zelda_enemies_222: 284883275
+      zelda_enemies_254: 1443056926
+      zelda_enemies_298: 628501706
+      zelda_enemies_144: 1090942669
+      zelda_enemies_81: -557407889
+      zelda_enemies_151: 579579909
+      zelda_enemies_94: -2126386036
+      zelda_enemies_74: -1627338619
+      zelda_enemies_286: -525373625
+      zelda_enemies_229: 2038147179
+      zelda_enemies_246: -169278066
+      zelda_enemies_189: 1023419325
+      zelda_enemies_33: -1585079428
+      zelda_enemies_87: 51094398
+      zelda_enemies_15: 549711113
+      zelda_enemies_55: -1280951917
+      zelda_enemies_304: -440090630
+      zelda_enemies_69: 1205691378
+      zelda_enemies_47: 113777209
+      zelda_enemies_280: 2141765520
+      zelda_enemies_25: 232440946
+      zelda_enemies_239: -490185177
+      zelda_enemies_96: -121560571
+      zelda_enemies_23: -562245039
+      zelda_enemies_147: 1363647961
+      zelda_enemies_202: 1705901351
+      zelda_enemies_236: 1906404634
+      zelda_enemies_218: 591067454
+      zelda_enemies_105: -1722695259
+      zelda_enemies_53: -1824745156
+      zelda_enemies_145: 936218917
+      zelda_enemies_185: 610890131
+      zelda_enemies_282: -209522891
+      zelda_enemies_122: 1307913202
+      zelda_enemies_45: 461567318
+      zelda_enemies_155: -141097470
+      zelda_enemies_263: -382506623
+      zelda_enemies_37: 1444200761
+      zelda_enemies_138: -1103715512
+      zelda_enemies_78: -571176544
+      zelda_enemies_86: 1345094073
+      zelda_enemies_209: 629217098
+      zelda_enemies_156: 1956722869
+      zelda_enemies_127: 1849379872
+      zelda_enemies_167: 1723241829
+      zelda_enemies_305: -1442938792
+      zelda_enemies_247: 1811340099
+      zelda_enemies_0: -1775773505
+      zelda_enemies_228: -278678092
+      zelda_enemies_124: 648576677
+      zelda_enemies_271: 1996341456
+      zelda_enemies_187: -1566609539
+      zelda_enemies_306: -804893186
+      zelda_enemies_119: -1191597543
+      zelda_enemies_238: 381036547
+      zelda_enemies_1: 741272603
+      zelda_enemies_10: 845082120
+      zelda_enemies_31: -315067284
+      zelda_enemies_249: 1316166780
+      zelda_enemies_76: 524029528
+      zelda_enemies_292: -880351637
+      zelda_enemies_75: 1543061460
+      zelda_enemies_114: -159707164
+      zelda_enemies_111: 1557690233
+      zelda_enemies_172: -985029455
+      zelda_enemies_205: -620314101
+      zelda_enemies_217: -1181750673
+      zelda_enemies_297: -236097996
+      zelda_enemies_219: -1795134937
+      zelda_enemies_251: 93610264
+      zelda_enemies_26: 1143971321
+      zelda_enemies_166: 1560208229
+      zelda_enemies_194: -522951642
+      zelda_enemies_201: -1676038124
+      zelda_enemies_8: -1317902110
+      zelda_enemies_163: -1171324412
+      zelda_enemies_295: 1883336152
+      zelda_enemies_168: -778215279
+      zelda_enemies_245: 1957457118
+      zelda_enemies_89: -1080837284
+      zelda_enemies_90: 2102586850
+      zelda_enemies_121: 12467488
+      zelda_enemies_35: 16901332
+      zelda_enemies_13: 1834560222
+      zelda_enemies_18: 277977020
+      zelda_enemies_6: -1032396574
+      zelda_enemies_227: 1889866097
+      zelda_enemies_58: 1504176414
+      zelda_enemies_188: -1274169314
+      zelda_enemies_211: 705921454
+      zelda_enemies_178: -1199465642
+      zelda_enemies_126: -1761420107
+      zelda_enemies_110: -1567682345
+      zelda_enemies_224: -649890720
+      zelda_enemies_92: 995609417
+      zelda_enemies_183: -1899465538
+      zelda_enemies_206: -1345979566
+      zelda_enemies_2: -453162650
+      zelda_enemies_133: -1901346231
+      zelda_enemies_241: -451599946
+      zelda_enemies_9: 1051733681
+      zelda_enemies_153: -1149130645
+      zelda_enemies_34: -1386351690
+      zelda_enemies_20: 1387934838
+      zelda_enemies_293: 837174318
+      zelda_enemies_157: 1990901744
+      zelda_enemies_128: 1847250771
+      zelda_enemies_274: 1452799861
+      zelda_enemies_231: -1735474549
+      zelda_enemies_291: -449775190
+      zelda_enemies_115: -1992808178
+      zelda_enemies_72: -1258530479
+      zelda_enemies_184: -1957141001
+      zelda_enemies_252: -1236041599
+      zelda_enemies_208: 644277605
+      zelda_enemies_22: 352867098
+      zelda_enemies_99: 2058428553
+      zelda_enemies_277: 636744898
+      zelda_enemies_93: 1653039032
+      zelda_enemies_27: 104404314
+      zelda_enemies_130: 1716486905
+      zelda_enemies_233: -1673825165
+      zelda_enemies_256: -1386535438
+      zelda_enemies_240: -1853133054
+      zelda_enemies_137: -614254920
+      zelda_enemies_149: -48911105
+      zelda_enemies_175: 53301911
+      zelda_enemies_46: -995018251
+      zelda_enemies_300: 403336321
+      zelda_enemies_134: -63480970
+      zelda_enemies_181: 1196546593
+      zelda_enemies_190: 1300305489
+      zelda_enemies_169: -1118242360
+      zelda_enemies_299: 1166542616
+      zelda_enemies_278: -1958347466
+      zelda_enemies_266: 1977819941
+      zelda_enemies_118: -1557713921
+      zelda_enemies_41: 1179407450
+      zelda_enemies_161: 792388251
+      zelda_enemies_139: -1524067930
+      zelda_enemies_287: -1470351535
+      zelda_enemies_3: -1419399949
+      zelda_enemies_30: -1338121566
+      zelda_enemies_54: 1433994075
+      zelda_enemies_116: -651493981
+      zelda_enemies_261: 1530752468
+      zelda_enemies_213: 448093220
+      zelda_enemies_120: -681263320
+      zelda_enemies_84: -1009213904
+      zelda_enemies_32: 1220651405
+      zelda_enemies_62: 1794924343
+      zelda_enemies_142: 119806070
+      zelda_enemies_98: 404006795
+      zelda_enemies_186: 1175859837
+      zelda_enemies_179: -503517406
+      zelda_enemies_272: -1549115625
+      zelda_enemies_265: -1632105535
+      zelda_enemies_79: 313531782
+      zelda_enemies_262: -2095960287
+      zelda_enemies_44: 859876060
+      zelda_enemies_275: -1751148876
+      zelda_enemies_12: 842002596
+      zelda_enemies_29: 1011316015
+      zelda_enemies_150: -1630647142
+      zelda_enemies_100: -1356935630
+      zelda_enemies_83: -1105963884
+      zelda_enemies_182: 84754028
+      zelda_enemies_43: 1373026654
+      zelda_enemies_216: -1728552702
+      zelda_enemies_21: -886782427
+      zelda_enemies_212: -1831702838
+      zelda_enemies_141: -1239171398
+      zelda_enemies_140: 324779467
+      zelda_enemies_136: -4010363
+      zelda_enemies_235: -2045268191
+      zelda_enemies_14: -1687795277
+      zelda_enemies_242: -1953798596
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
